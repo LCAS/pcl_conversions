@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(pcl_conversions)
+project(pcl_conversions_c11)
 
 find_package(catkin REQUIRED COMPONENTS pcl_msgs roscpp sensor_msgs std_msgs cmake_modules)
 
-find_package(pcl_catkin REQUIRED QUIET COMPONENTS common)
+find_package(pcl_catkin_c11 REQUIRED QUIET COMPONENTS common)
 find_package(Eigen REQUIRED)
 
 include_directories(include ${catkin_INCLUDE_DIRS} ${PCL_COMMON_INCLUDE_DIRS} ${Eigen_INCLUDE_DIRS})
