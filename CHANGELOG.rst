@@ -2,6 +2,19 @@
 Changelog for package pcl_conversions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* renaming
+* renaming
+* changed name and maintainer
+* Merge pull request `#1 <https://github.com/LCAS/pcl_conversions/issues/1>`_ from ethz-asl/feature/switch_to_pcl_catkin
+  switched from PCL to pcl_catkin dependency
+* switched from PCL to pcl_catkin dependency
+* Merge pull request `#22 <https://github.com/LCAS/pcl_conversions/issues/22>`_ from ros-perception/paulbovbel-patch-1
+  Remove duplicated line
+* Remove duplicated line
+* Contributors: Marc Hanheide, Marko Panjek, Paul Bovbel, root
+
 0.2.1 (2015-06-08)
 ------------------
 * Added a test for rounding errors in stamp conversion
