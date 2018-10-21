@@ -2,8 +2,8 @@
 Changelog for package pcl_conversions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.3 (2018-10-21)
+------------------
 * Update package.xml
 * Contributors: Marc Hanheide
 
